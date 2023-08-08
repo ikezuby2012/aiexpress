@@ -1,4 +1,4 @@
-# TOOLIFY REPOSITORY
+# AIEXPRESS REPOSITORY
 ## Manual Installation
 
 clone the repo:
